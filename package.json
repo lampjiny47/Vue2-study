@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "vue": "^2.7.16"
+  },
+  "name": "vue2-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lampjiny47/Vue2-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lampjiny47/Vue2-study/issues"
+  },
+  "homepage": "https://github.com/lampjiny47/Vue2-study#readme",
+  "description": ""
+}
